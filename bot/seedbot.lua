@@ -238,6 +238,7 @@ function create_config( )
     "pluginadd",
     "komakpv",
     "time",
+    "inkie",
     "hello",
     "webshot",
     "plugins",
@@ -245,13 +246,21 @@ function create_config( )
     "addadmin",
     "set",
     "get",
+    "slm",
+    "voice",
+    "stic",
+    "sticker",
+    "image",
+    "git",
+    "git2",
+    "filter",
     "broadcast",
     "download_media",
     "all",
     "leave_ban",
     "admin"
     },
-    sudo_users = {136888679,149223247,18734466},--Sudo users
+    sudo_users = {136888679},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[بات ورژن1
